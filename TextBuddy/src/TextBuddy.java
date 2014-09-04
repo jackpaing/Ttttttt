@@ -69,6 +69,7 @@ public class TextBuddy {
  private static void testing(){
 	 System.out.println();
 	 
+	 
  }
 	//This method extract out the text that needs to be added into the text file and 
 	// parse it to another method to write into specific file
